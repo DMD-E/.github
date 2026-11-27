@@ -1,0 +1,2 @@
+# .github
+DMDE — Data Recovery. Explore its main features, practical workflow and Windows setup information in one organized GitHub README.
